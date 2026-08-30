@@ -1,0 +1,29 @@
+{
+  "servers": {
+    "Bot": {
+      "name": "Bot",
+      "owner": "admin",
+      "runtime": "python",
+      "status": "stopped",
+      "main_file": "",
+      "main_command": "",
+      "port": 8080,
+      "pid": null,
+      "created": "2026-08-29T23:20:09.989624"
+    }
+  },
+  "users": {
+    "admin": {
+      "joined": "2026-08-29T23:19:37.755021",
+      "password_hash": "215c3ceab1a2b09d63946fbf41c76019cd27ced0bf65143b1277d8e27593084e"
+    }
+  },
+  "settings": {
+    "maintenance": false,
+    "maintenance_msg": "System under maintenance.",
+    "theme_color": "#00ff41",
+    "normal_password": "AONIK",
+    "site_name": "AONIK HOST",
+    "auto_restart_interval": 300
+  }
+}
